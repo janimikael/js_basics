@@ -1,2 +1,2 @@
 // eka edit 
-console.log("hello again 😉")
+alert("JS want to say: hello 🌍");
